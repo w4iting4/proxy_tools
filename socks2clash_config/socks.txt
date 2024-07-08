@@ -1,0 +1,5 @@
+socks5://username:password@192.168.1.1:10081
+socks5://username:password@192.168.1.1:10082
+socks5://username:password@192.168.1.1:10083
+socks5://username:password@192.168.1.1:10084
+socks5://username:password@192.168.1.1:10085
