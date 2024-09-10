@@ -7,3 +7,5 @@
  用于快速定位 `socks` 链接可用性的小工具[socksenable](https://github.com/w4iting4/socks_enable)
 ## trojan_link2xraycore_config
  用于快速转换 `trojan` 成为 `xray-core` 中 `socks` 的小工具[trojan_link2xraycore_config](https://github.com/w4iting4/trojan_link2xraycore_config)
+## sdoor
+ 用于在当前主机上快速开启一个简单带有账号密码认证功能的`socks5`服务端的小工具[sdoor](https://github.com/w4iting4/sdoor/tree/main)
